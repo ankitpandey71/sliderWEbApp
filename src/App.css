@@ -53,9 +53,19 @@
 
 }
 
+.logo {
+  margin-left: 40px;
+  background-color: aliceblue;
+  color: rgb(2, 30, 46);
+  font-weight: bolder;
+  border-radius: 20px;
+  padding: 20px;
+}
+
 .headerMain ul {
   display: flex;
   justify-content: space-between;
+  padding-right: 80px;
   
   
 
@@ -63,6 +73,8 @@
 .headerMain ul li {
   margin: 10px;
   list-style: none;
+  font-weight: bold;
+  font-size: x-large;
 }
 
 .imagesSlide {
